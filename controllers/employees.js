@@ -25,7 +25,7 @@ const add = async (req, res) => {
     const data = req.body;
 
     if (!data.firstName || !data.lastName || !data.address || !data.age) {
-      return res.status(400).json({ message: "Все поля обязательные" });
+      return res.status(400).json({ message: "Все поля обязательные тут" });
     }
 
     const employee = await prisma.employee.create({
