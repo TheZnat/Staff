@@ -1,4 +1,4 @@
-#Stek technology: React, TypeScript, Redux Toolkit, Express
+# Stek technology: React, TypeScript, Redux Toolkit, Express
 
 # Для запуска проекта, необходимо выполнить следующие шаги:
 
